@@ -53,3 +53,4 @@ htmlcov/
 .nox/
 .hypothesis/
 .coverage.* 
+/test_downloads

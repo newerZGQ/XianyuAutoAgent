@@ -3,3 +3,20 @@ websockets==13.1
 loguru==0.7.3
 python-dotenv==1.0.1
 requests==2.32.3
+
+# HTTP client and async support
+aiohttp>=3.8.0
+aiofiles>=0.8.0
+
+# Web scraping and parsing
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Data handling
+requests>=2.28.0
+
+# network_disk
+bypy
